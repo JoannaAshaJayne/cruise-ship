@@ -7,5 +7,8 @@
     "test": "Jest"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "package.json": "^2.0.1"
+  }
 }
